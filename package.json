@@ -1,0 +1,21 @@
+{
+  "name": "@mfahadfarooq/simple-cli-currency-converter",
+  "version": "1.0.0",
+  "description": "simple-cli-currency-converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20"
+  }
+}
